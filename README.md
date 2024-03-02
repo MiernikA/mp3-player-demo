@@ -17,4 +17,4 @@ Please note that this repository contains only the demo version of the MP3 Playe
 ## Full Version
 If you are interested in exploring the full capabilities of the MP3 Player project, including the upload functionality and additional features, please check out the full version available on my GitHub repository:
 
-[Link to Full Version](github.com/MiernikA/mp3-player)
+[Link to Full Version](https://github.com/MiernikA/mp3-player)
